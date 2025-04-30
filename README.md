@@ -16,36 +16,6 @@ This project predicts student academic performance using machine learning models
 - Scikit-learn, Matplotlib, Seaborn
 - SQLite, SQL (via `sqlite3`)
 
-## 📂 Project Structure
-
-```
-student-performance-prediction/
-│
-├── data/
-│   └── student-mat.csv
-├── students.db  # SQLite database
-├── student_performance_model.py
-├── README.md
-└── requirements.txt
-```
-
-## 🚀 How to Run
-
-1. Clone the repo:
-```bash
-git clone https://github.com/yourusername/student-performance-prediction.git
-```
-
-2. Install dependencies:
-```bash
-pip install -r requirements.txt
-```
-
-3. Run the script:
-```bash
-python student_performance_model.py
-```
-
 ## 📈 Sample Outputs
 
 - **SQL query results** for EDA (average grades by gender, etc.)
